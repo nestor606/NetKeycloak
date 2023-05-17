@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lbaWOHI9f/qY3OyVppOTG7C0jn/0IbLwA9+7hgi8q2ZTFAViyvpVCBSWflimPp4tmYS9PPLH54z+9K/L8Sw4fA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nesto\\source\\repos\\DockerApiNet\\Applications\\Applications.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nesto\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\nesto\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

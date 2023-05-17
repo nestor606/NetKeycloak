@@ -1,0 +1,15 @@
+C:\Users\nesto\source\repos\DockerApiNet\Applications\bin\Release\net6.0\Applications.deps.json
+C:\Users\nesto\source\repos\DockerApiNet\Applications\bin\Release\net6.0\Applications.dll
+C:\Users\nesto\source\repos\DockerApiNet\Applications\bin\Release\net6.0\Applications.pdb
+C:\Users\nesto\source\repos\DockerApiNet\Applications\bin\Release\net6.0\Dominio.dll
+C:\Users\nesto\source\repos\DockerApiNet\Applications\bin\Release\net6.0\Dominio.pdb
+C:\Users\nesto\source\repos\DockerApiNet\Applications\obj\Release\net6.0\Applications.csproj.AssemblyReference.cache
+C:\Users\nesto\source\repos\DockerApiNet\Applications\obj\Release\net6.0\Applications.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nesto\source\repos\DockerApiNet\Applications\obj\Release\net6.0\Applications.AssemblyInfoInputs.cache
+C:\Users\nesto\source\repos\DockerApiNet\Applications\obj\Release\net6.0\Applications.AssemblyInfo.cs
+C:\Users\nesto\source\repos\DockerApiNet\Applications\obj\Release\net6.0\Applications.csproj.CoreCompileInputs.cache
+C:\Users\nesto\source\repos\DockerApiNet\Applications\obj\Release\net6.0\Applications.csproj.CopyComplete
+C:\Users\nesto\source\repos\DockerApiNet\Applications\obj\Release\net6.0\Applications.dll
+C:\Users\nesto\source\repos\DockerApiNet\Applications\obj\Release\net6.0\refint\Applications.dll
+C:\Users\nesto\source\repos\DockerApiNet\Applications\obj\Release\net6.0\Applications.pdb
+C:\Users\nesto\source\repos\DockerApiNet\Applications\obj\Release\net6.0\ref\Applications.dll

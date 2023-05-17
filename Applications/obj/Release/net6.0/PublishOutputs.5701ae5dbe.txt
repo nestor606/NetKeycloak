@@ -1,0 +1,6 @@
+C:\Users\nesto\source\repos\DockerApiNet\out\Applications.dll
+C:\Users\nesto\source\repos\DockerApiNet\out\Applications.deps.json
+C:\Users\nesto\source\repos\DockerApiNet\out\Applications.pdb
+C:\Users\nesto\source\repos\DockerApiNet\out\AutoMapper.dll
+C:\Users\nesto\source\repos\DockerApiNet\out\Dominio.dll
+C:\Users\nesto\source\repos\DockerApiNet\out\Dominio.pdb
